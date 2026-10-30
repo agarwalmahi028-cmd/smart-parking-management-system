@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark – IoT Smart Parking",
+  "description": "IoT-based smart parking management platform using ESP32 and HC-SR04 ultrasonic sensors to detect vehicle occupancy in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
